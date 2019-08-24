@@ -1,2 +1,2 @@
 # Red.de.Compostaje
-Red de Usuarios Compostadores, Proveedores y Consumidores
+Red de Usuarios, Proveedores y Consumidores de Compostadores, Lombrices, Humus, etc.
